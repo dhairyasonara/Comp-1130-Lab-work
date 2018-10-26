@@ -1,0 +1,36 @@
+Rainfall comparison for January to June 2018
+
+January     |****************
+            |!!!!!!!!!!!!!!!!!!!!!!!!!!!
+            |
+February    |************************
+            |!!!!!!!!!!!!!!!!!!!!!!
+            |
+March       |*********************
+            |!!!!!!!!!!!!!!!!!!!!!
+            |
+April       |*************************
+            |!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+            |
+May         |********************
+            |!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+            |
+June        |********************************
+            |!!!!!!!!!!!!!!!!!!!!!!!
+            |----1----2----3----4----5----6----7----8
+
+LEGEND:
+
+* - 30 year average rainfall for a given month (normal rainfall)
+
+! - 2018 rainfall for a given month
+
+Total 30 year average rainfall was 27.3mm.
+
+Total rainfall for 2018 was 30.0mm.
+
+2018 was a wetter year than normal by 2.7mm.
+
+The month with the highest rainfall in 2018 was April with 6.0mm.
+
+April was a wetter month than normal by 1.0mm.
